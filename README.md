@@ -1,2 +1,2 @@
-# Grokking-Algorithms
+# grokkingAlgorithms
 Introduction to algorithms.
